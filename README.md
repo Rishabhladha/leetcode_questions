@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
+| [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
