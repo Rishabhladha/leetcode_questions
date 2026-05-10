@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -15,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
