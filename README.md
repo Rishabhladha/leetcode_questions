@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
