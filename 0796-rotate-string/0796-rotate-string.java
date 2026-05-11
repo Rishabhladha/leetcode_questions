@@ -1,16 +1,11 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-
+        // Step 1: Check length (O(1))
         if (s.length() != goal.length()) {
             return false;
         }
-
-        for(int i=0;i<s.length();i++){
-        String ne = s.substring(s.length()-1-i,s.length()) + s.substring(0,s.length()-1-i);
-            if(ne.equals(goal)){
-                return true;
-            }
-        }
-        return false;
+        
+        // Step 2: Check if goal is a substring of (s + s)
+        return (s + s).contains(goal);
     }
 }
