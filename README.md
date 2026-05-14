@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Rishabhladha/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rishabhladha/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/0796-rotate-string) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rishabhladha/leetcode_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
