@@ -1,42 +1,24 @@
-import java.util.*;
-
 class Solution {
     public String frequencySort(String s) {
-        
-        HashMap<Character,Integer> map = new HashMap<>();
-        
-        // Count frequency
+        HashMap<Character, Integer>map = new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            map.put(ch , map.getOrDefault(ch,0)+1);
+            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
-        
         StringBuilder sb = new StringBuilder();
-        
-        // Repeat until map becomes empty
-        while(!map.isEmpty()){
-            
-            char maxChar = ' ';
-            int maxFreq = 0;
-            
-            // Find character with maximum frequency
+        int max =0;
+        for(int freq: map.values()){
+            max = Math.max(max, freq);
+        }
+        for(int freq = max; freq>=1;freq--){
             for(char ch : map.keySet()){
-                
-                if(map.get(ch) > maxFreq){
-                    maxFreq = map.get(ch);
-                    maxChar = ch;
+                if(map.get(ch)==freq){
+                    for(int i=0;i<freq;i++){
+                        sb.append(ch);
+                    }
                 }
             }
-            
-            // Add character maxFreq times
-            for(int i=0;i<maxFreq;i++){
-                sb.append(maxChar);
-            }
-            
-            // Remove used character
-            map.remove(maxChar);
         }
-        
         return sb.toString();
     }
 }
