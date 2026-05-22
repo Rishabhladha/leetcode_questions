@@ -5,29 +5,20 @@
  *     ListNode next;
  *     ListNode() {}
  *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { 
- *         this.val = val; 
- *         this.next = next; 
- *     }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode reverseList(ListNode head) {
-
-        ListNode prev = null;
         ListNode curr = head;
-
+        ListNode prev = null;
+        ListNode next = null;
         while(curr != null){
-
-            ListNode nextNode = curr.next; // store next node
-
-            curr.next = prev; // reverse link
-
-            prev = curr; // move prev forward
-            curr = nextNode; // move curr forward
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
-
         return prev;
     }
 }
