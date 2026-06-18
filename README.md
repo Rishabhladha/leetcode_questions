@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rishabhladha/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhladha/leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rishabhladha/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rishabhladha/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
