@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rishabhladha/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishabhladha/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
