@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
