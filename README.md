@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhladha/leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishabhladha/leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Rishabhladha/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
