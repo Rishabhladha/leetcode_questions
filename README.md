@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rishabhladha/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Rishabhladha/leetcode_questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rishabhladha/leetcode_questions/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rishabhladha/leetcode_questions/tree/master/1922-count-good-numbers) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rishabhladha/leetcode_questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Rishabhladha/leetcode_questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Rishabhladha/leetcode_questions/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
@@ -167,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Rishabhladha/leetcode_questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
