@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabhladha/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabhladha/leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishabhladha/leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Rishabhladha/leetcode_questions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabhladha/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabhladha/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
