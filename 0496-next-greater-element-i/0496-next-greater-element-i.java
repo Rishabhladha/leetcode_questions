@@ -10,14 +10,14 @@ class Solution {
 
             // Find target in nums2
             int j;
-            for (j = 0; j < nums2.length; j++) {
+            for ( j = 0; j < nums2.length; j++) {
                 if (nums2[j] == target) {
                     break;
                 }
             }
 
             // Search to the right
-            for (j = j + 1; j < nums2.length; j++) {
+            for ( j = j + 1; j < nums2.length; j++) {
                 if (nums2[j] > target) {
                     nextGreater = nums2[j];
                     break;
