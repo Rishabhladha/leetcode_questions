@@ -3,6 +3,9 @@ class Solution {
         return atMost(nums, goal) - atMost(nums, goal-1);
     }
 
+    //simply ye kiya he ki subarray smaller than goal- subaray smaller than goal-1
+    // will give me the total no of subarray == goal
+
     public int atMost(int[] nums, int goal){
         if(goal<0){
             return 0;
