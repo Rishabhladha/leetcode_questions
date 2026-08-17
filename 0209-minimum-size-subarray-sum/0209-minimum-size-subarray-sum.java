@@ -7,16 +7,12 @@ class Solution {
         for(int r=0;r<nums.length;r++){
              sum +=nums[r];
 
-             if(sum >=target){
-                min = Math.min(min, r-l+1);
-             }
 
              while(sum>=target){
+
+                 min=Math.min(min,r-l+1);
                 sum = sum-nums[l];
-                l++;
-                if(sum>=target){
-                    min=Math.min(min,r-l+1);
-                }
+                l++;    
              }
     
         }
