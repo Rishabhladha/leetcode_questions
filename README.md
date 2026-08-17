@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rishabhladha/leetcode_questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/Rishabhladha/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rishabhladha/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishabhladha/leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhladha/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishabhladha/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhladha/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhladha/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhladha/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0904-fruit-into-baskets) |
