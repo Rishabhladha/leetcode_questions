@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabhladha/leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishabhladha/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Rishabhladha/leetcode_questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabhladha/leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabhladha/leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
@@ -250,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabhladha/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishabhladha/leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishabhladha/leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishabhladha/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishabhladha/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishabhladha/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
