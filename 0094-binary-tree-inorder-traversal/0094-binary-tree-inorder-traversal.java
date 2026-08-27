@@ -15,19 +15,39 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        inorder( root, ans);
-        return ans;
-    }
+        List<Integer> result = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode current = root;
+        while(current!=null || !stack.isEmpty()){
 
-    public void inorder(TreeNode root, List<Integer> ans){
-
-        if(root==null){
-            return;
+            while(current!=null){
+                stack.push(current);
+                current = current.left;
+            }
+            current = stack.pop();
+            result.add(current.val);
+            current = current.right;
         }
-        
-        inorder(root.left,ans);
-        ans.add(root.val);
-        inorder(root.right,ans);
+        return result;
     }
 }
+
+// here is the recursive approch 
+// class Solution {
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         List<Integer> ans = new ArrayList<>();
+//         inorder( root, ans);
+//         return ans;
+//     }
+
+//     public void inorder(TreeNode root, List<Integer> ans){
+
+//         if(root==null){
+//             return;
+//         }
+        
+//         inorder(root.left,ans);
+//         ans.add(root.val);
+//         inorder(root.right,ans);
+//     }
+// }
