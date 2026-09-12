@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhladha/leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabhladha/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Trie
 |  |
 | ------- |
