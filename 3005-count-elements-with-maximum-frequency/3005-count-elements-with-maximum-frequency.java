@@ -6,12 +6,13 @@ class Solution {
         }
         int max =0;
         int count =0;
-        for(int val : map.values()){
-            if(val>max){
-                max=val;
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            int value = entry.getValue();
+            if(value>max){
+                max =value;
                 count=0;
             }
-            if(val == max){
+            if(value == max){
                 count++;
             }
         }
