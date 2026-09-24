@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rishabhladha/leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Rishabhladha/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhladha/leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabhladha/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabhladha/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabhladha/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rishabhladha/leetcode_questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rishabhladha/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Rishabhladha/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rishabhladha/leetcode_questions/tree/master/1922-count-good-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabhladha/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Rishabhladha/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabhladha/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
