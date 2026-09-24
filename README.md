@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Rishabhladha/leetcode_questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Rishabhladha/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Rishabhladha/leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhladha/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabhladha/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -189,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabhladha/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rishabhladha/leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Rishabhladha/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhladha/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rishabhladha/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Rishabhladha/leetcode_questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
